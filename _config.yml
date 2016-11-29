@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 #email: hello@davidmiller.io
 description: "This is not a real Java User Group, just a bunch of Java enthusiasts who enjoy good design and code"
 baseurl: ""
-url: "https://notsojug.github.io/"
+url: https://notsojug.github.io
 #twitter_username: davidmillerskt
 #github_username:  davidtmiller
 
