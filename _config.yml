@@ -6,7 +6,8 @@ description: "This is not a real Java User Group, just a bunch of Java enthusias
 baseurl: ""
 url: https://notsojug.github.io
 #twitter_username: davidmillerskt
-#github_username:  davidtmiller
+github_username:  notsojug
+gitter_username:  NotSoJUG/Lobby
 
 # Build settings
 markdown: kramdown
