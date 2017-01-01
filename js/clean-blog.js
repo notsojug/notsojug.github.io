@@ -1071,5 +1071,5 @@ jQuery(document).ready(function($) {
     m.parentNode.insertBefore(a, m)
 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-ga('create', 'UA-38417733-26', 'auto');
+ga('create', '89359236-1', 'auto');
 ga('send', 'pageview');
