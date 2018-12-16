@@ -13,7 +13,7 @@ Do you know that Eclipse is not _just_ a editor? You are mistreating it!
 
 Here we present you the Eclipse Talk, where you can find useful info regarding this IDE (that's right, **IDE**).
 
-You can read the slides on [https://raw.githack.com/notsojug/jug-material/master/eclipse/slides/index.html](https://raw.githack.com/notsojug/jug-material/master/eclipse/slides/index.html)
+You can read the slides on [https://notsojug.github.io/jug-material/eclipse/slides/](https://notsojug.github.io/jug-material/eclipse/slides/)
 
 Please check also the [wiki page](https://github.com/notsojug/jug-material/wiki/Eclipse) of the jug material for further information.
 
