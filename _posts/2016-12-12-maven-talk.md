@@ -13,4 +13,4 @@ Have you ever thought that Maven was originally started as an attempt to simplif
 
 No? What a pity...! You better follow this link and checkout some good slides :page_with_curl:
 
-[https://raw.githack.com/notsojug/jug-material/master/maven/slides/index.html](https://raw.githack.com/notsojug/jug-material/master/maven/slides/index.html)
+[https://notsojug.github.io/jug-material/maven/slides/](https://notsojug.github.io/jug-material/maven/slides/)
